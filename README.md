@@ -8,7 +8,7 @@ PSO-based: Although not directly connected to Particle Swarm Optimization (PSO),
 
 Key differentiator: What sets FDO apart is its reliance on fitness-dependent weights for each search agent. These weights dynamically adjust based on the agent's fitness value, influencing the balance between exploration (searching new areas) and exploitation (refining solutions in promising areas).
 
-## Author of the Code
+## Author of the Code Program
 Jaza Mahmood Abdullah  jazamahmood@gmail.com
 
 ## Usage
